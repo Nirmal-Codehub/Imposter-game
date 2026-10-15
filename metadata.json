@@ -1,0 +1,6 @@
+{
+  "name": "IMPOSTER - Real-Time Multiplayer Party Game",
+  "description": "A thrilling real-time social deduction party game. Everyone knows something, nobody knows everything. Identify the imposter among you!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
